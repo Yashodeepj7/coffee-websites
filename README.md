@@ -51,7 +51,7 @@ Open the pre-built standalone file directly in any modern browser:
 # From the project root or aurora-coffee-react folder:
 npm install
 npm run dev
-# Open http://localhost:5173
+# Open http://localhost:5173 or http://localhost:5174
 ```
 
 ### Option C: Production Build
